@@ -98,18 +98,29 @@ Sau đó nhấn `Close` và `Finish`
 
 ![cai-ubuntu-tren-may-ao-vmware (15)](https://blogchiasekienthuc.com/wp-content/uploads/2018/07/cai-ubuntu-tren-may-ao-vmware-15.png)
 **+ Bước 8**: Giao diện cài xong như hình bên dưới => chọn `Power on the virtual machine` để khởi động và boot vào bộ cài Ubuntu.
+
 ![cai-ubuntu-tren-may-ao-vmware (16)](https://blogchiasekienthuc.com/wp-content/uploads/2018/07/cai-ubuntu-tren-may-ao-vmware-16.png)
+
 Quá trình boot và bung file Ubuntu ra máy ảo đang diễn ra. Bạn đợi cho quá trình này kết thúc thôi 😀
+
 ![cai-ubuntu-tren-may-ao-vmware (17)](https://blogchiasekienthuc.com/wp-content/uploads/2018/07/cai-ubuntu-tren-may-ao-vmware-19.png)
+
 Vậy là thành công rồi !
+
 ![cai-ubuntu-tren-may-ao-vmware (18)](https://blogchiasekienthuc.com/wp-content/uploads/2018/07/cai-ubuntu-tren-may-ao-vmware-20.png)
+
 Giao diện như hình bên dưới.
+
 ![cai-ubuntu-tren-may-ao-vmware (19)](https://blogchiasekienthuc.com/wp-content/uploads/2018/07/cai-ubuntu-tren-may-ao-vmware-21.png)
+
 Vậy là chúng ta đã cài đặt thành công, bây giờ thì bạn đã có thể sử dụng hệ điều hành Ubuntu này để lập trình cho môn học Hệ điều hành.
+
 	```sh
 	**Lưu ý**: Để kích hoạt bản quyền cho phần mềm VMware Pro thì bạn có thể nhấn vào nút Enter a license key => và nhập Key vào. Key ở đâu thì bạn có thể tìm kiếm trên mạng có rất là nhiều luôn 😀
 	```
+	
 ![cai-ubuntu-tren-may-ao-vmware (20)](https://blogchiasekienthuc.com/wp-content/uploads/2018/07/cai-ubuntu-tren-may-ao-vmware-17.png)
+
 - Đọc thêm:
   - [Phần mềm tạo máy tính ảo VMware Workstation 12 Pro](https://blogchiasekienthuc.com/phan-mem-mien-phi/phan-mem-tao-may-tinh-ao.html)
   - [Kinh nghiệm, thủ thuật sử dụng phần mềm tạo máy ảo VMware](https://blogchiasekienthuc.com/thu-thuat-hay/thu-thuat-su-dung-vmware-phan-mem-tao-may-ao.html)
