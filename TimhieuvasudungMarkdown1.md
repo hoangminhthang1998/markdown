@@ -97,6 +97,7 @@ Bạn có thể đặt lại tên trong mục `Virtual machine name`, hoặc có
 Sau đó nhấn `Close` và `Finish`
 
 ![cai-ubuntu-tren-may-ao-vmware (15)](https://blogchiasekienthuc.com/wp-content/uploads/2018/07/cai-ubuntu-tren-may-ao-vmware-15.png)
+
 **+ Bước 8**: Giao diện cài xong như hình bên dưới => chọn `Power on the virtual machine` để khởi động và boot vào bộ cài Ubuntu.
 
 ![cai-ubuntu-tren-may-ao-vmware (16)](https://blogchiasekienthuc.com/wp-content/uploads/2018/07/cai-ubuntu-tren-may-ao-vmware-16.png)
