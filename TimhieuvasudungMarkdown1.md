@@ -117,7 +117,7 @@ Giao diện như hình bên dưới.
 Vậy là chúng ta đã cài đặt thành công, bây giờ thì bạn đã có thể sử dụng hệ điều hành Ubuntu này để lập trình cho môn học Hệ điều hành.
 
 
-	**Lưu ý**: Để kích hoạt bản quyền cho phần mềm VMware Pro thì bạn có thể nhấn vào nút Enter a license key => và nhập Key vào. Key ở đâu thì bạn có thể tìm kiếm trên mạng có rất là nhiều luôn 😀
+	Lưu ý: Để kích hoạt bản quyền cho phần mềm VMware Pro thì bạn có thể nhấn vào nút Enter a license key => và nhập Key vào. Key ở đâu thì bạn có thể tìm kiếm trên mạng có rất là nhiều luôn 😀
 
 	
 ![cai-ubuntu-tren-may-ao-vmware (20)](https://blogchiasekienthuc.com/wp-content/uploads/2018/07/cai-ubuntu-tren-may-ao-vmware-17.png)
