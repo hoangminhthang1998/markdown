@@ -23,7 +23,7 @@
 ### Các thuộc tính chung trong HTML
 
 | **Thuộc tính**       | **Giá trị**       | **Chức năng**|
-| --------------|---------------|--|
+| --------------|---------------|--------|
 | align|right, left, center|Các thẻ căn chỉnh theo chiều ngang|
 | valign|top, middle, bottom|Các thẻ căn chỉnh theo chiều dọc trong một phần tử HTML|
 |bgcolor|Giá trị số, thập lục phân, RGB|Đặt màu nền phía sau một phần tử|
@@ -33,3 +33,38 @@
 |width|Giá trị số|Xác định độ rộng của bảng, hình ảnh hoặc ô trong bảng|
 |height|Giá trị số|Xác định chiều cao của bảng, hình ảnh hoặc ô trong bảng|
 |title|Người dùng tự định nghĩa|"Pop-up" tiêu đề của phần tử|
+
+### Các thẻ cơ bản của html
+#### Các phần tử trong HTML
+| **Thẻ bắt đầu**       | **Nội dung của thẻ**       | **Thẻ kết thúc**|
+| --------------|---------------|--------|
+|<p>|Đây là nội dung đoạn văn|</p>|
+|<h1>|Đây là tiêu đề bộ dung|</h1>|
+|<div>|Đây là nội dung phân chia|/div>|
+|<br/>|
+#### Thẻ tiêu đề 
+`<h1>`
+# This is h1
+`<h2>`
+## This is h2
+`<h3>`
+### This is h3
+`<h4>`
+### This is h4
+`<h5>`
+##### This is h5
+`<h6>`
+##### This is h6
+
+#### Thẻ văn bản
+Thẻ `<p>` cung cấp một cách để cấu trúc văn bản thành các đoạn khác nhau 
+#### Thẻ ngắt dòng
+Mọi thứ theo sau `<br />` đều bắt đầu từ dòng tiếp theo 
+#### Thẻ canh giữa
+Sử dụng thẻ `<center><center/>` để đặt bất kì nội dùng nào vào giữa trang hoặc bất kì ô bảng nào 
+#### Thẻ tạo đường ngang
+Thẻ `'<hr>` để phân chia các phần của tài liệu
+#### Thẻ giữ nguyên định dạng
+Thẻ `<pre></pre>` giữ nguyên định dạng chính xác về cách nó được viết trong tài liệu html
+#### Ký tự khoảng trắng
+`&nbsp`
