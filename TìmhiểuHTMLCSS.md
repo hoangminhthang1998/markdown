@@ -374,3 +374,5 @@ Chức năng tạo chữ chạy trong HTML
 marquee-play-count|	Thiết lập bao nhiêu lần di chuyển nội dung	|
 |marquee-speed|	Thiết lập cách nhanh chóng cuộn nội dung	|
 |marquee-style|	Thiết lập kiểu di chuyển nội dung	|
+
+[Nguồn](https://timoday.edu.vn/tong-hop-cac-thuoc-tinh-cua-css/)
