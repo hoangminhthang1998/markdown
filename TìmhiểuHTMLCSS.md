@@ -10,13 +10,26 @@
 ### Các thuộc tính Global trong HTML
 
 **Thuộc tính dir**: phép bạn chỉ đạo trình duyệt phương hướng mà văn bản hiển thị (chẳng hạn từ trái qua phải). Thuộc tính này nhận một trong 2 giá trị
-	| Giá trị       | Ý nghĩa       |
-	| --------------|---------------|
-	| ltr    | Từ trái qua phải (giá trị mặc định)|
-	| rtl    | Từ phải qua trái (cho các ngôn ngữ như Hebrew, Arabic… mà được đọc từ phải qua trái)     |
+
+| Giá trị       | Ý nghĩa       |
+| --------------|---------------|
+| ltr    | Từ trái qua phải (giá trị mặc định)|
+| rtl    | Từ phải qua trái (cho các ngôn ngữ như Hebrew, Arabic… mà được đọc từ phải qua trái)     |
 	
-**Thuộc tính lang**
+**Thuộc tính lang**: cho phép bạn chỉ rõ ngôn ngữ chính sử dụng trong một tài liệu, nhưng thuộc tính này được giữ trong HTML chỉ cho khả năng tương thích ngược với các phiên bản trước của HTML. Thuộc tính này được thay thế bằng thuộc tính xml:lang trong tài liệu XHTML mới.
 
-**Thuộc tính xml:lang
+**Thuộc tính xml:lang**: thay cho thuộc tính lang. Giá trị của thuộc tính xml:lang này có thể là một mã quốc gia trong ISO-639 như đã đề cập ở trên.
 
-**
+### Các thuộc tính chung trong HTML
+
+| **Thuộc tính**       | **Giá trị**       | **Chức năng**|
+| --------------|---------------|--|
+| align|right, left, center|Các thẻ căn chỉnh theo chiều ngang|
+| valign|top, middle, bottom|Các thẻ căn chỉnh theo chiều dọc trong một phần tử HTML|
+|bgcolor|Giá trị số, thập lục phân, RGB|Đặt màu nền phía sau một phần tử|
+|background|URL|Đặt ảnh nền phía sau một phần tử|
+|id|Người dùng tự định nghĩa|Đặt tên một phần tử để sử dụng với Cascading Style Sheets|
+|class|Người dùng tự định nghĩa|Phân loại một phần tử để sử dụng với Cascading Style Sheets|
+|width|Giá trị số|Xác định độ rộng của bảng, hình ảnh hoặc ô trong bảng|
+|height|Giá trị số|Xác định chiều cao của bảng, hình ảnh hoặc ô trong bảng|
+|title|Người dùng tự định nghĩa|"Pop-up" tiêu đề của phần tử|
