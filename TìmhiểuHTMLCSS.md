@@ -38,10 +38,10 @@
 #### Các phần tử trong HTML
 | **Thẻ bắt đầu**       | **Nội dung của thẻ**       | **Thẻ kết thúc**|
 | --------------|---------------|--------|
-|<p>|Đây là nội dung đoạn văn|</p>|
-|<h1>|Đây là tiêu đề bộ dung|</h1>|
-|<div>|Đây là nội dung phân chia|/div>|
-|<br/>|
+|`<p>`|Đây là nội dung đoạn văn|`</p>`|
+|`<h1>`|Đây là tiêu đề bộ dung|`</h1>`|
+|`<div>`|Đây là nội dung phân chia|`</div>`|
+|`<br/>`|
 #### Thẻ tiêu đề 
 `<h1>`
 # This is h1
