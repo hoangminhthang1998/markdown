@@ -2,13 +2,16 @@
 
 
 ###Cấu Trúc Của Vuex
+
 Đối với Vuex, store chính là nơi quản lý tập trung state của các ứng dụng bao gồm 5 phần chính: State, Getters, Mutation, Actions, Modules
 
 ##State (trạng thái)
 
+
 ```const state = {
   numbers: [1, 2, 3, 4, 5]
 }```
+
 
 ##Getters (lọc trạng thái)
 
