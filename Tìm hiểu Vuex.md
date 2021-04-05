@@ -5,6 +5,12 @@
 
 Đối với Vuex, store chính là nơi quản lý tập trung state của các ứng dụng bao gồm 5 phần chính: State, Getters, Mutation, Actions, Modules
 
+Vuex hoạt động theo mô hình "Luồng dữ liệu một chiều" với các thành phần sau:
+
+- State: Trạng thái, là nơi khởi nguồn để thực hiện ứng dụng.
+- View: Khung nhìn, là các khai báo ánh xạ với trạng thái.
+- Action: Hành động, là những cách thức làm trạng thái thay đổi phản ứng lại các nhập liệu của người dùng từ View.
+
 ## State (trạng thái)
 
 
