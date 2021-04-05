@@ -11,6 +11,8 @@ Vuex hoạt động theo mô hình "Luồng dữ liệu một chiều" với cá
 - View: Khung nhìn, là các khai báo ánh xạ với trạng thái.
 - Action: Hành động, là những cách thức làm trạng thái thay đổi phản ứng lại các nhập liệu của người dùng từ View.
 
+![](https://images.viblo.asia/512cc264-0329-42e0-8ffc-dd9ea366f0e1.png)
+
 ## State (trạng thái)
 
 
